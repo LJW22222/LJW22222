@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Jong%20Won%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 ## <img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Hi There!👋
-#### I'm Jong, <code>Front-end</code> developer from Korea.
+#### I'm Jong, <code>Back-end</code> developer from Korea.
 
 - 🌱 I'm a novice developer 
 

@@ -9,7 +9,7 @@
 
 - 🤔 I'm currently interested in <code>Back-end</code> development
 
-- 🔭 So I'm focusing on learning Flutter,React these days! 😁
+- 🔭 So I'm focusing on learning Java,Spring-Boot these days! 😁
 
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=Duxpiex&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)

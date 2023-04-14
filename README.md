@@ -7,7 +7,7 @@
 
 - 🌱 I'm a novice developer 
 
-- 🤔 I'm currently interested in <code>Front-end</code> development
+- 🤔 I'm currently interested in <code>Back-end</code> development
 
 - 🔭 So I'm focusing on learning Flutter,React these days! 😁
 

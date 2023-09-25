@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Jong%20Won%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 ## <img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Hi There!👋
-#### I'm Jong, <code>Back-end</code> developer from Korea.
+#### I'm JongWon, <code>Back-end</code> developer from Korea.
 
 - 🌱 I'm a novice developer 
 
@@ -12,7 +12,7 @@
 - 🔭 So I'm focusing on learning Java,Spring-Boot these days! 😁
 
 
-[![github_stats](https://github-readme-stats.vercel.app/api?username=Duxpiex&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
+[![github_stats](https://github-readme-stats.vercel.app/api?username=LJW22222&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duxpiex&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Duxpiex) -->

@@ -8,8 +8,9 @@
 - 🌱 I'm a novice developer 
 
 - 🤔 I'm currently interested in <code>Back-end</code> development
+- 🤔 I'm currently interested in <code>Server</code> development
 
-- 🔭 So I'm focusing on learning Java,Spring-Boot these days! 😁
+- 🔭 So I'm focusing on learning Java,Spring-Boot,K8s or k3s, Linux these days! 😁
 
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=LJW22222&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
@@ -22,56 +23,8 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-346-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-🌃 Evening                56 commits          █████████████████░░░░░░░░   67.47 % 
-🌙 Night                  16 commits          █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Tuesday                  30 commits          █████████░░░░░░░░░░░░░░░░   36.14 % 
-Wednesday                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Friday                   12 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Saturday                 18 commits          █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Spring                   0 secs              ████████████████████████░   96.58 % 
-Node.js                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-MySQL                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-
-🔥 Editors: 
-IntelliJ                 0 secs              ████████████████████████░   96.58 % 
-Eclipse                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-
-💻 Operating System: 
-Windows                   0 secs              █████████████████████████   100.00 % 
-```
-
-
-
-
-
- Last Updated on 12/04/2023 00:25:04 UTC
-<!--END_SECTION:waka-->
-
-
-
 <h2> 🛠 Tech Stacks</h2>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/dart.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/GitMainImage/blob/main/linux.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/flutter.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/html-5.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/css-3.svg" width="40" height="40" align="left"/></a>

@@ -33,7 +33,7 @@
 <br>
 <br>
 <h2> 🛠 Tools</h2>
-<img src="https://github.com/LJW22222/LJW22222/blob/main/img/visual-studio-code.svg" width="40" height="40" align="left"/>
+<img src="https://github.com/LJW22222/LJW22222/blob/main/image/spring-svgrepo-com.svg" width="40" height="40" align="left"/>
 <img src="https://github.com/LJW22222/LJW22222/blob/main/img/intellij-idea.svg" width="40" height="40" align="left"/>
 <img src="https://github.com/LJW22222/LJW22222/blob/main/img/datagrip.svg" width="40" height="40" align="left"/>
 <img src="https://github.com/LJW22222/LJW22222/blob/main/img/rider.svg" width="40" height="40" align="left"/>

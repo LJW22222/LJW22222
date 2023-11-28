@@ -24,7 +24,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-346-blue)
 
 <h2> 🛠 Tech Stacks</h2>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/GitMainImage/blob/main/linux.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="[https://github.com/LJW22222/LJW22222/GitMainImage/blob/main/linux.svg](https://github.com/LJW22222/LJW22222/assets/106072775/bf48542c-9828-408c-868e-1bccb371e563)" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/flutter.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/html-5.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/css-3.svg" width="40" height="40" align="left"/></a>

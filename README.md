@@ -25,11 +25,12 @@
 
 <h2> 🛠 Tech Stacks</h2>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/spring-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/spring_boot_icon.png" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/css-3.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/javascript.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/react.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/mysql.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/Kubernetes-icon-color.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/docker-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/api-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/rasberry-pi-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/flask-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/ssh-svgrepo-com.svg" width="40" height="40" align="left"/></a>
 <br>
 <br>
 <h2> 🛠 Tools</h2>

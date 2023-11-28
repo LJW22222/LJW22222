@@ -36,7 +36,7 @@
 <br>
 <br>
 <h2> 🛠 Tools</h2>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/visualstudiocode-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/intellij-idea-svgrepo-com.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/visual-studio-code-svgrepo-com.svg" width="40" height="40" align="left"/></a>
 
 

@@ -26,11 +26,11 @@
 <h2> 🛠 Tech Stacks</h2>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/spring-svgrepo-com.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/Kubernetes-icon-color.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/docker-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/api-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/rasberry-pi-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/flask-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/ssh-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/docker-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/api-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/rasberry-pi-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/flask-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/ssh-svgrepo-com.svg" width="40" height="40" align="left"/></a>
 <br>
 <br>
 <h2> 🛠 Tools</h2>

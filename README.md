@@ -24,7 +24,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-346-blue)
 
 <h2> 🛠 Tech Stacks</h2>
-<a href="#" target="_blank"><img src="github.com/LJW22222/LJW22222/blob/main/image/spring-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/spring-svgrepo-com.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/spring_boot_icon.png" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/css-3.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/javascript.svg" width="40" height="40" align="left"/></a>
@@ -33,7 +33,7 @@
 <br>
 <br>
 <h2> 🛠 Tools</h2>
-<img src="https://github.com/LJW22222/LJW22222/blob/main/image/spring-svgrepo-com.svg" width="40" height="40" align="left"/>
+
 <img src="https://github.com/LJW22222/LJW22222/blob/main/img/intellij-idea.svg" width="40" height="40" align="left"/>
 <img src="https://github.com/LJW22222/LJW22222/blob/main/img/datagrip.svg" width="40" height="40" align="left"/>
 <img src="https://github.com/LJW22222/LJW22222/blob/main/img/rider.svg" width="40" height="40" align="left"/>

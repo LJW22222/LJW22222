@@ -34,13 +34,9 @@
 <br>
 <br>
 <h2> 🛠 Tools</h2>
-
-<img src="https://github.com/LJW22222/LJW22222/blob/main/img/intellij-idea.svg" width="40" height="40" align="left"/>
-<img src="https://github.com/LJW22222/LJW22222/blob/main/img/datagrip.svg" width="40" height="40" align="left"/>
-<img src="https://github.com/LJW22222/LJW22222/blob/main/img/rider.svg" width="40" height="40" align="left"/>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/adobe-photoshop.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/adobe-illustrator.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/img/adobe-xd.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/visualstudiocode-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/intellij-idea-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/adobe-xd.svg" width="40" height="40" align="left"/></a>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)

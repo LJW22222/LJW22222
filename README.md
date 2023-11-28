@@ -10,7 +10,7 @@
 - 🤔 I'm currently interested in <code>Back-end</code> development
 - 🤔 I'm currently interested in <code>Server</code> development
 
-- 🔭 So I'm focusing on learning Java,Spring-Boot,K8s or k3s, Linux these days! 😁
+- 🔭 So I'm focusing on learning Spring FrameWork, OS, Kubernetes or Dokcer, Redis, Kafaka these days! 😁
 
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=LJW22222&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)

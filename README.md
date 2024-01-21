@@ -24,10 +24,41 @@
 </a>
 </div>
 <br>
+<br>
+<br>
 
+<h3 align="center">🔨 Skill</h3>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Spring-F05138?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  
+ </p>
+<br>
+<h3 align="center">🔨 Tool</h3>
+ <p align="center">
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  
+   </p>
+<br>
+<br>
+<div align=center>
  
-<!-- [![github_stats](https://github-readme-stats.vercel.app/api?username=Duxpiex&show_icons=true&hide_border=true)](https://github.com/Duxpiex) -->
+  [![github_stats](https://github-readme-stats.vercel.app/api?username=LJW22222&show_icons=true&hide_border=true)](https://github.com/LJW22222)
 
+ <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJW22222&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/LJW22222)-->
+
+</div>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duxpiex&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Duxpiex) -->

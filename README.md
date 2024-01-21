@@ -93,23 +93,11 @@ No Activity Tracked This Week
 <div align=center>
 
  <h2> 🛠 Tech Stacks</h2>
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/dart.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/flutter.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/html-5.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/css-3.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/javascript.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/react.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/mysql.svg" width="40" height="40" /></a>
+
  <br>
  <br>
  <h2> 🛠 Tools</h2>
- <img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/visual-studio-code.svg" width="40" height="40" />
- <img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/intellij-idea.svg" width="40" height="40" />
- <img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/datagrip.svg" width="40" height="40" />
- <img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/rider.svg" width="40" height="40" />
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-photoshop.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-illustrator.svg" width="40" height="40" /></a>
- <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-xd.svg" width="40" height="40" /></a>
+
 
 </div>
 

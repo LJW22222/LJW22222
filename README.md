@@ -24,15 +24,11 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-346-blue)
 
 <h2> 🛠 Tech Stacks</h2>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/spring-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/Kubernetes-icon-color.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/docker-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/api-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/rasberry-pi-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/flask-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/ssh-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/mysql-svgrepo-com.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/LJW22222/LJW22222/blob/main/image/postgresql-svgrepo-com.svg" width="40" height="40" align="left"/></a>
+<span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
 <br>
 <br>
 <h2> 🛠 Tools</h2>

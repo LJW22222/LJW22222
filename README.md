@@ -118,20 +118,6 @@ No Activity Tracked This Week
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300&count=7)
 -->
 
- 
-
-
-<div align=center>
-
- <h2> 🛠 Tech Stacks</h2>
-
- <br>
- <br>
- <h2> 🛠 Tools</h2>
-
-
-</div>
-
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&&height=200&section=footer) -->
 
 

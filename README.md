@@ -65,50 +65,7 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align=center>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-🌆 Daytime                103 commits         ████████░░░░░░░░░░░░░░░░░   30.93 % 
-🌃 Evening                167 commits         █████████████░░░░░░░░░░░░   50.15 % 
-🌙 Night                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Tuesday                  72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Wednesday                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 106 commits         ████████░░░░░░░░░░░░░░░░░   31.83 % 
-Friday                   50 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Saturday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 21/01/2024 03:16:46 UTC
-<!--END_SECTION:waka-->
-
- </div>
  
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
 

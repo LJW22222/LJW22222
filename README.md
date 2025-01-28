@@ -58,6 +58,6 @@
 ---
 
 ### 🔗 Connect with Me
-- 📧 Email: your.email@example.com
-- 🏠 Blog: [Your Blog](https://yourblog.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: whddnjs5255@gmail.com
+<!-- - 🏠 Blog: [Your Blog](https://yourblog.com)
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile) -->

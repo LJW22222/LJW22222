@@ -9,10 +9,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 **I'm a Backend Developer from Korea**
-- 🚀 Interested in **Spring, Java, Kubernetes, and Docker**
-- 🎯 Currently focusing on **Microservices & Scalable Systems**
-- 🎵 Love listening to music while coding 🎧
+- 🚀 새로운 기술을 지속적으로 학습하고 있습니다.
+- 🎯 현재 마이크로서비스 및 확장 가능한 시스템에 집중하고 있습니다.
+- 🎵 코딩할 때 음악을 듣는 것을 좋아합니다 🎧.
 
 ---
 

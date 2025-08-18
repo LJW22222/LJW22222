@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Spring+%7C+Java;Passionate+about+clean+code+%26+architecture" />
 </p>
 
-<h3 align="center">✨ 확장 가능하고 순수한 코드를 작성하는 것을 목표로 합니다. ✨</h3>
+<h3 align="center">✨ 팀과 사용자에게 필요한 개발자가 되는 것을 목표로 하고 있습니다.  ✨</h3>
 
 ---
 

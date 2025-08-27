@@ -57,7 +57,12 @@
 ---
 
 ### 📊 BaekJoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjw2200)](https://solved.ac/kjw2200/)
+<p align="center">
+  <a href="https://solved.ac/kjw2200/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kjw2200" alt="Solved.ac Profile" />
+  </a>
+</p>
+
 ---
 
 ### 🔗 Connect with Me
